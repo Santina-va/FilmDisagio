@@ -1,0 +1,5 @@
+1;Dune Part Two;Denis Villeneuve;166;2024-03-01;FANTASCIENZA,AZIONE
+2;Oppenheimer;Christopher Nolan;180;2023-08-23;DRAMMATICO
+3;The Batman;Matt Reeves;176;2022-03-04;THRILLER,AZIONE
+4;Elemental;Pete Docter;101;2023-06-16;ANIMAZIONE,COMMEDIA
+5;Talk to Me;Danny Philippou;95;2023-07-28;HORROR,THRILLER
